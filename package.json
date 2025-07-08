@@ -1,0 +1,27 @@
+{
+  "name": "react-learnings",
+  "version": "1.0.0",
+  "scripts": {
+    "start":"parcel index.html --open",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RitikSingh0523/react-learnings.git"
+  },
+  "author": "Ritik Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RitikSingh0523/react-learnings/issues"
+  },
+  "homepage": "https://github.com/RitikSingh0523/react-learnings#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
