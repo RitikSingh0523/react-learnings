@@ -1,7 +1,8 @@
 import { RES_IMG } from "../utils/common";
 
 const ResCard = ({ resData }) => {
-    const { id, name, sla, cuisines, costForTwo, avgRating, cloudinaryImageId } = resData.info;
+    const { name, sla, cuisines, costForTwo, avgRating, cloudinaryImageId } = resData.info;
+ 
 
     return (
         <div className="w-[200px] p-2 box-border border border-transparent hover:cursor-pointer hover:border-amber-400 bg-[#f0f0f0]">
@@ -11,7 +12,11 @@ const ResCard = ({ resData }) => {
                 className="w-full h-[100px] object-cover"
             />
 
-            <div className="mt-2 text-sm font-semibold text-gray-800">
+            {/* Name with ellipsis and tooltip */}
+            <div
+                className="mt-2 text-sm font-semibold text-gray-800 truncate"
+                title={name}
+            >
                 {name}
             </div>
 
@@ -19,12 +24,12 @@ const ResCard = ({ resData }) => {
                 {cuisines.join(", ")}
             </div>
 
-            <div className="text-xs text-gray-600">
-                {costForTwo}
-            </div>
+            
 
-            <div className="text-xs text-gray-600">
-                ⭐ {avgRating} | {sla.deliveryTime} mins
+            <div className="text-xs text-gray-600 flex justify-between w-full">
+                <span>⭐ {avgRating}</span>
+                <span>{sla.deliveryTime} mins</span>
+                <span>{costForTwo} </span>
             </div>
         </div>
     );
