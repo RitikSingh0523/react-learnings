@@ -1,8 +1,8 @@
 import React from "react"
 import ReactDOM from "react-dom/client"
+import App from "./src/App"
 
-const heading =<h1>Welcome to React</h1>
 
 const root = ReactDOM.createRoot(document.getElementById("root"))
 
-root.render(heading)
+root.render(<App />)

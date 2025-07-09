@@ -2,7 +2,7 @@
   "name": "react-learnings",
   "version": "1.0.0",
   "scripts": {
-    "start":"parcel index.html --open",
+    "start": "parcel index.html --open",
     "build": "parcel build index.html",
     "test": "jest"
   },
@@ -21,7 +21,9 @@
     "parcel": "^2.15.4"
   },
   "dependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.11"
   }
 }

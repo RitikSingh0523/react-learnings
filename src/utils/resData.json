@@ -1,0 +1,182 @@
+[
+    {
+        "resName": "Spice Villa",
+        "cuisine": "Indian",
+        "rating": 4.3,
+        "ETA": "30 mins"
+    },
+    {
+        "resName": "Sushi World",
+        "cuisine": "Japanese",
+        "rating": 4.7,
+        "ETA": "25 mins"
+    },
+    {
+        "resName": "Pasta Palace",
+        "cuisine": "Italian",
+        "rating": 4.1,
+        "ETA": "20 mins"
+    },
+    {
+        "resName": "Burger Barn",
+        "cuisine": "American",
+        "rating": 4.0,
+        "ETA": "15 mins"
+    },
+    {
+        "resName": "Taco Town",
+        "cuisine": "Mexican",
+        "rating": 4.2,
+        "ETA": "18 mins"
+    },
+    {
+        "resName": "Green Bowl",
+        "cuisine": "Vegan",
+        "rating": 4.5,
+        "ETA": "22 mins"
+    },
+    {
+        "resName": "Dragon Express",
+        "cuisine": "Chinese",
+        "rating": 4.3,
+        "ETA": "19 mins"
+    },
+    {
+        "resName": "Noodle House",
+        "cuisine": "Thai",
+        "rating": 4.6,
+        "ETA": "21 mins"
+    },
+    {
+        "resName": "Falafel Hut",
+        "cuisine": "Middle Eastern",
+        "rating": 4.4,
+        "ETA": "28 mins"
+    },
+    {
+        "resName": "BBQ Pit",
+        "cuisine": "American BBQ",
+        "rating": 4.0,
+        "ETA": "35 mins"
+    },
+    {
+        "resName": "Curry Nation",
+        "cuisine": "Indian",
+        "rating": 4.2,
+        "ETA": "30 mins"
+    },
+    {
+        "resName": "Pizza Street",
+        "cuisine": "Italian",
+        "rating": 3.9,
+        "ETA": "20 mins"
+    },
+    {
+        "resName": "Wok n Roll",
+        "cuisine": "Chinese",
+        "rating": 4.1,
+        "ETA": "23 mins"
+    },
+    {
+        "resName": "Hummus House",
+        "cuisine": "Lebanese",
+        "rating": 4.5,
+        "ETA": "26 mins"
+    },
+    {
+        "resName": "Grill Master",
+        "cuisine": "Steakhouse",
+        "rating": 4.3,
+        "ETA": "33 mins"
+    },
+    {
+        "resName": "Healthy Harvest",
+        "cuisine": "Salads",
+        "rating": 4.4,
+        "ETA": "17 mins"
+    },
+    {
+        "resName": "Biryani Zone",
+        "cuisine": "Indian",
+        "rating": 4.6,
+        "ETA": "29 mins"
+    },
+    {
+        "resName": "Cafe Delight",
+        "cuisine": "Cafe",
+        "rating": 4.2,
+        "ETA": "16 mins"
+    },
+    {
+        "resName": "Pho 24",
+        "cuisine": "Vietnamese",
+        "rating": 4.1,
+        "ETA": "20 mins"
+    },
+    {
+        "resName": "Shawarma King",
+        "cuisine": "Middle Eastern",
+        "rating": 4.3,
+        "ETA": "27 mins"
+    },
+    {
+        "resName": "The Breakfast Club",
+        "cuisine": "Breakfast",
+        "rating": 4.5,
+        "ETA": "14 mins"
+    },
+    {
+        "resName": "Panini Point",
+        "cuisine": "Italian",
+        "rating": 4.0,
+        "ETA": "19 mins"
+    },
+    {
+        "resName": "Kebab Korner",
+        "cuisine": "Turkish",
+        "rating": 4.1,
+        "ETA": "24 mins"
+    },
+    {
+        "resName": "Dim Sum Den",
+        "cuisine": "Chinese",
+        "rating": 4.4,
+        "ETA": "22 mins"
+    },
+    {
+        "resName": "Wrap It Up",
+        "cuisine": "Fusion",
+        "rating": 3.8,
+        "ETA": "21 mins"
+    },
+    {
+        "resName": "Ramen Room",
+        "cuisine": "Japanese",
+        "rating": 4.5,
+        "ETA": "26 mins"
+    },
+    {
+        "resName": "Tandoori Tales",
+        "cuisine": "Indian",
+        "rating": 4.3,
+        "ETA": "31 mins"
+    },
+    {
+        "resName": "The Vegan Spot",
+        "cuisine": "Vegan",
+        "rating": 4.6,
+        "ETA": "18 mins"
+    },
+    {
+        "resName": "Grilled Cheese Co.",
+        "cuisine": "American",
+        "rating": 4.0,
+        "ETA": "15 mins"
+    },
+    {
+        "resName": "Smoothie Shack",
+        "cuisine": "Healthy",
+        "rating": 4.2,
+        "ETA": "12 mins"
+    }
+]
